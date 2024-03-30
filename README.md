@@ -7,10 +7,7 @@ I also enjoyed playing with Markdown on Jupyter Notebook. Some key Markdowns I u
   1. Create titles in a Markdown cell, i.e. H1 = #, H2 = ##, H3 = ###, etc.
   2. Create plain text in a Markdown cell by just typing in the cell
   3. Create ordered list in a Markdown cell by adding 1, 2, 3, ... in front of the text
-  4. Create table in a Markdown cell. | X Y Z |
-                                       -------
-                                      | 1 2 3 |
-                                      | 7 8 9 |
+  4. Create table in a Markdown cell using | and ---
   5. Simple arithmetic expressions, such as (3*4)+5
   6. Convert minutes to hours
 
