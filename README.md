@@ -13,4 +13,4 @@ I also enjoyed playing with Markdown on Jupyter Notebook. Some key Markdowns I u
 Github didn't come in as handy but I managed it by watching some extra learning videos. 
 I am now comfortable with Create a New Repositary, Clone a Repositary to Local Folder using local working directory on Terminal, Download Jupyter Notebook and upload it to the repository, and so on.
 
-This is such an amazing learning experience for someone who has no prior experience in the field. I am looking forward to more future projects. 
+This is such an amazing learning experience for someone with no prior experience. I am looking forward to more future projects. 
