@@ -1,5 +1,7 @@
 # IBM_DS_certificate
 
+# Jupyter notebook
+
 This is officially my first Python & Git assignment.
 Thanks to IBM Data Science Certificate program. I learned the languages, OS tools, and libraries commonly used for Data Science. 
 I also enjoyed playing with Markdown on Jupyter Notebook. Some key Markdowns I use include:
@@ -13,7 +15,9 @@ I also enjoyed playing with Markdown on Jupyter Notebook. Some key Markdowns I u
   5. Simple arithmetic expressions, such as (3*4)+5
   6. Convert minutes to hours
 
-# Github didn't come in as handy but I managed it by watching some extra learning videos. 
+# Github
+
+Github didn't come in as handy but I managed it by watching some extra learning videos. 
 I am now comfortable with Create a New Repositary, Clone a Repositary to Local Folder using local working directory on Terminal, Download Jupyter Notebook and upload it to the repository, and so on.
 
 This is such an amazing learning experience for someone who has no prior experience in the field. I am looking forward to more future projects. 
